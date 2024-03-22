@@ -75,7 +75,7 @@ text:`
 {id:3,
     title:"أنواع الأقامة في يوغندا",
     img:ugnda,
-    link:'https://www.facebook.com/61552335848639/posts/pfbid0iscXCbKvJHMYsZD3JBz5Dyn9HzuBAYosiiSnZnHrcPZau4CpBipAMNbBD7XWfwQCl/?app=fbl',
+    link:'https://www.facebook.com/61552335848639/posts/pfbid036RJZAVrpCbTdcHSY88YH4Mgg6dxZrWpjmARWgzjpUD5DRszktZDGE5NhU8t6rS5sl/?app=fbl',
     text:`
     أنواع الإقامة في يوغندا🇺🇬.
 يوغندا إلى الآن خيار مناسب جدًا؛ تقدر تقعد فيها رسميًا بطرق متعددة.
